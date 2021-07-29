@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Climbing
+  - Player
+  - BG
+  - Enemy
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2342817219
+    locked: 0
+  - name: Climb
+    uniqueID: 2051165399
+    locked: 0
+  - name: Enemy
+    uniqueID: 1862614037
+    locked: 0
+  - name: Traps
+    uniqueID: 2548789255
+    locked: 0
+  - name: Player
+    uniqueID: 3915018181
+    locked: 0
+  - name: FG
+    uniqueID: 3142031539
+    locked: 0
